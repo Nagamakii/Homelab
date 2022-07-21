@@ -10,3 +10,7 @@ Built with:
 
 3D Printed Raspberry PI Stacked Case
   - STL can be found [here](STLs/raspberry_pi_3_stack_v1.stl)
+
+TP Link Switch
+  - Found this in my basment! [Link](https://smile.amazon.com/TP-Link-Ethernet-Splitter-Unmanaged-TL-SF1005D/dp/B000FNFSPY/ref=sr_1_4?crid=18DS8UIX3VDR1&keywords=tp+link+switch+5+port&qid=1658378133&sprefix=tp+link+switch+%2Caps%2C93&sr=8-4)
+
