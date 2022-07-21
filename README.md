@@ -1,7 +1,6 @@
 # Homelab
-Built with:
 
-🥧
+A little homelab I created to learn more things and automate some of my tasks. A full list of parts and guide is below ⬇
 
 ## Hardware
 
