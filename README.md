@@ -14,3 +14,10 @@ Built with:
 TP Link Switch
   - Found this in my basment! [Link](https://smile.amazon.com/TP-Link-Ethernet-Splitter-Unmanaged-TL-SF1005D/dp/B000FNFSPY/ref=sr_1_4?crid=18DS8UIX3VDR1&keywords=tp+link+switch+5+port&qid=1658378133&sprefix=tp+link+switch+%2Caps%2C93&sr=8-4)
 
+## Software
+
+Raspbian OS Lite
+  - [Find it here](https://www.raspberrypi.com/software/operating-systems/)
+
+K3S
+  - Biggest part of the project (and biggest pain in my ass), I use this to manage containers within my cluster. [Link](https://k3s.io/) 
