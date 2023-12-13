@@ -4,19 +4,19 @@ A little homelab I created to learn more things and automate some of my tasks. A
 
 ## Hardware
 
-2x Raspberry PI 4/3, 4gb/1gb, 32gb SD card each
-  - Cooling: PI 4: [Pimoroni Fan Shim](https://smile.amazon.com/Pimoroni-Fan-Shim-Raspberry-PI/dp/B07TTTCN8H/ref=sr_1_2?crid=LM5J4HI7ALMC&keywords=raspberry+pi+fan+shim&qid=1658377482&sprefix=raspberry+pi+fan+%2Caps%2C88&sr=8-2), PI 3: .....A stack of copper pennies 😅
+2x Raspberry Pi 4, 4gb Ram, 1x Raspberry Pi 3 B+ 2gb Ram
+  - Cooling: Pi 4: [Pimoroni Fan Shim](https://smile.amazon.com/Pimoroni-Fan-Shim-Raspberry-PI/dp/B07TTTCN8H/ref=sr_1_2?crid=LM5J4HI7ALMC&keywords=raspberry+pi+fan+shim&qid=1658377482&sprefix=raspberry+pi+fan+%2Caps%2C88&sr=8-2), PI 3: .....A stack of copper pennies 😅
 
 3D Printed Raspberry PI Stacked Case
   - STL can be found [here](STLs/raspberry_pi_3_stack_v1.stl)
 
-TP Link Switch
-  - Found this in my basment! [Link](https://smile.amazon.com/TP-Link-Ethernet-Splitter-Unmanaged-TL-SF1005D/dp/B000FNFSPY/ref=sr_1_4?crid=18DS8UIX3VDR1&keywords=tp+link+switch+5+port&qid=1658378133&sprefix=tp+link+switch+%2Caps%2C93&sr=8-4)
+[TRENDNet](https://www.trendnet.com/support/support-detail.asp?prod=515_TEG-S80G#specifications)
+  - 8-Port Gigabit GREENnet Switch, connects to all the Pis, (except the 3 B+). Great for low power consumption.
 
 ## Software
 
-Raspbian OS Lite
-  - [Find it here](https://www.raspberrypi.com/software/operating-systems/)
+[Raspbian OS Lite](https://www.raspberrypi.com/software/operating-systems/)
+  - I use this on all my Pis, it's lighter than most compatible OS's and makes setup for applications easy.
 
-K3S
-  - Biggest part of the project (and biggest pain in my ass), I use this to manage containers within my cluster. [Link](https://k3s.io/) 
+[PI-Hole](https://pi-hole.net/)
+  - No special config, just running this on the Raspberry Pi 3 B+.
