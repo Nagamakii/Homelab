@@ -5,7 +5,7 @@ A little homelab I created to learn more things and automate some of my tasks. A
 ## Hardware
 
 [Dell Optiplex 7050](https://www.dell.com/support/manuals/en-us/optiplex-7050-sff/optiplex-7050-desktop-sff-om/processor-specifications?guid=guid-8ca53ab2-a85d-42d5-9106-5214220306aa&lang=en-us)
-  - I5-6500, 16gb Ram, 256gb SSD, 1tb HDD.
+  - I5-6500, 8gb Ram, 256gb SSD, 1tb HDD.
   - Hosts Wazuh and K3S.
 
 2x Raspberry Pi 4, 4gb Ram, 1x Raspberry Pi 3 B+ 2gb Ram
