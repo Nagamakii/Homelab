@@ -14,9 +14,13 @@ A little homelab I created to learn more things and automate some of my tasks. A
 [TRENDNet](https://www.trendnet.com/support/support-detail.asp?prod=515_TEG-S80G#specifications)
   - 8-Port Gigabit GREENnet Switch, connects to all the Pis, (except the 3 B+). Great for low power consumption.
 
+[Ender 3](https://www.creality.com/products/ender-3-3d-printer)  
+
 ## Software
 
 - [Ubuntu Server 22.04](https://ubuntu.com/)
+
+- [Docker](https://www.docker.com/)
 
 - [Raspbian OS Lite](https://www.raspberrypi.com/software/operating-systems/)
 
@@ -24,3 +28,8 @@ A little homelab I created to learn more things and automate some of my tasks. A
 
 - [Jellyfin](https://jellyfin.org/)
 
+- [Home Assistant](https://www.home-assistant.io/)
+
+- [Prometheus](https://prometheus.io/)
+
+- [Grafana](https://grafana.com/)
